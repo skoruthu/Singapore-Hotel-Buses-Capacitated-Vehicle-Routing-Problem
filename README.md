@@ -13,7 +13,7 @@ https://nbviewer.org/github/FelipeChapa/Capacitated-Vehicle-Routing-Singapore-Ho
 ## Optimized shuttle bus routing based on demand at time window
 ![routes](Images/OptimizedRoutes.png)
 
-##Collaborators
+## Collaborators
 
 Felipe Chapa Chamorro
 Gino Martelli S Tiu
