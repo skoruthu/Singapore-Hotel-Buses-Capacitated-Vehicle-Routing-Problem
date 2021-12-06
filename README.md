@@ -15,8 +15,8 @@ https://nbviewer.org/github/FelipeChapa/Capacitated-Vehicle-Routing-Singapore-Ho
 
 ## Collaborators
 
-Felipe Chapa Chamorro
-Gino Martelli S Tiu
-Hai-Hsin Huang
-Susan Koruthu
+Felipe Chapa Chamorro <br />
+Gino Martelli S Tiu <br />
+Hai-Hsin Huang <br />
+Susan Koruthu <br />
 Tsao, Kai-Ting
